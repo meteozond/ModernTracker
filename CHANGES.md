@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v.1.0.1
+- Fixed Next week label
+
 ## v.1.0.0
 
 - Simple pomodoro timer
