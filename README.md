@@ -15,7 +15,7 @@ Here are the features that are currently available:
 - An English language pack.
 
 # Install
-- Download [ru.erix.ModernTracker.omnifocusjs](ru.erix.ModernTracker.omnifocusjs) folder release zip file.
+- [Download release archive](https://github.com/meteozond/ModernTracker/releases).
 - Extract if zipped.
 - Open OmniFocus menu item - `Automation` - `Configure...` window.
 - Drag [ru.erix.ModernTracker.omnifocusjs](ru.erix.ModernTracker.omnifocusjs) folder into it.
