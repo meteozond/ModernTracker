@@ -3,16 +3,20 @@
 # Motivation
 Let's make OmniFocus™️ great again.
 
-I've love OmniFocus™️ user experience but suffer of lack of some very usefull features.
+![Modern Tracker screenshot](img/screenShot.png)
 
-Features provided:
-- Pomodoro timer.
-- Handy task date/time binding buttons like it done with TikTik™️ оr Singularity™️.
-- English language pack.
+
+I adore the user experience of OmniFocus™️, however, I do struggle with the absence of some highly beneficial features.
+
+Here are the features that are currently available:
+
+- A Pomodoro timer.
+- Convenient task date/time binding buttons similar to those used in TikTik™️ or Singularity™️.
+- An English language pack.
 
 # Install
 - Download [ru.erix.ModernTracker.omnifocusjs](ru.erix.ModernTracker.omnifocusjs) folder release zip file.
-- Extract it zipped.
+- Extract if zipped.
 - Open OmniFocus menu item - `Automation` - `Configure...` window.
 - Drag [ru.erix.ModernTracker.omnifocusjs](ru.erix.ModernTracker.omnifocusjs) folder into it.
 - Close `Automaion Configuration` window
