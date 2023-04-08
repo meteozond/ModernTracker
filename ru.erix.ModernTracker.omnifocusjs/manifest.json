@@ -1,0 +1,62 @@
+{
+  "author": "Alexander (meteozond) Klimenko",
+  "identifier": "ru.erix.ModernTracker",
+  "defaultLocale": "en",
+  "version": "1.0.0",
+  "description": "A collection of tracker actions for Omnifocus.",
+  "actions": [
+    {
+      "image": "timer",
+      "identifier": "pomodoro"
+    },
+    {
+      "image": "timer.circle.fill",
+      "identifier": "pomodoroStop"
+    },
+    {
+      "image": "sunrise.fill",
+      "identifier": "thisMorning"
+    },
+    {
+      "image": "sun.max",
+      "identifier": "thisDay"
+    },
+    {
+      "image": "sunset.fill",
+      "identifier": "thisEvening"
+    },
+    {
+      "image": "sunrise.circle",
+      "identifier": "nextMorning"
+    },
+    {
+      "image": "sun.max.circle",
+      "identifier": "nextDay"
+    },
+    {
+      "image": "sunset.circle",
+      "identifier": "nextEvening"
+    },
+    {
+      "image": "sofa.fill",
+      "identifier": "thisWeekend"
+    },
+    {
+      "image": "flag.checkered.circle",
+      "identifier": "nextWeek"
+    },
+    {
+      "image": "calendar.circle",
+      "identifier": "nextMonth"
+    },
+    {
+      "image": "clock.badge.xmark",
+      "identifier": "clearDates"
+    },
+    {
+      "image": "questionmark",
+      "identifier": "about"
+    }
+  ],
+  "libraries": []
+}
